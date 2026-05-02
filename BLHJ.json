@@ -41,6 +41,10 @@
             "type_id": "说案"
         },
         {
+            "type_name": "剑来",
+            "type_id": "剑来"
+        },
+        {
             "type_name": "知名UP主",
             "type_id": "知名UP主"
         },
